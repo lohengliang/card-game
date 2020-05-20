@@ -19,8 +19,11 @@ To run the simulation:
 Hands of the Game:
 
 Player A: 4S 9S 4H
+
 Player B: 6S 2C JD
+
 Player C: 5S 8S 4C
+
 Player D: 8C 7D 5C
 
 Winner: Player A
@@ -30,8 +33,11 @@ Winner: Player A
 Hands of the Game:
 
 Player A: 7H 8D KS
+
 Player B: 7S 6C TC
+
 Player C: AS 4C QS Extra Round: 7C
+
 Player D: QD AH 4H Extra Round: QH
 
 Winner: Player D
