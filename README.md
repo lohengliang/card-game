@@ -3,16 +3,10 @@
 This is a simulation of a card game. The rules of the card game are as follows:
 
 - There are four players
-
 - Each player has three cards
-
 - The winner is determined by the following order: trail (three cards of the same number), sequence (numbers in order), pairs, top card
-
 - If top card has the same value, tied players draws a card from the deck until a winner is found
-
 - The suit does not matter
-
-  
 
 To run the simulation:
 
@@ -42,12 +36,8 @@ Player D: QD AH 4H Extra Round: QH
 
 Winner: Player D
 
-
-
 To run the tests:
 
 - Run the command 'npm test'
-
-  
 
 The cards are represented by two letters, the first letter represents the rank (2, 3, 4, 5, 6, 7, 8, 9, T, J, Q, K, A) and the second letter represents the suit (S, D, H, C for Spades, Diamonds, Hearts and Clubs respectively).
